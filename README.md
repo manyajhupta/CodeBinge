@@ -1,6 +1,5 @@
 # CodeBinge 🚀
-
-![CodeBinge Banner](https://your-image-link.com)  
+ 
 _A one-stop interactive dashboard for managing and tracking your coding journey!_
 
 ## 🔥 Overview
@@ -74,10 +73,10 @@ We welcome contributions! 🚀
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request 🎉
 
-## 🌎 Connect with Me
-🔗 **GitHub:** [Shambhavigaur31](https://github.com/Shambhavigaur31)  
-📧 **Email:** gaurshambhavi31@gmail.com  
-🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/in/shambhavi-gaur-a9a15028b/)
+## 🌎 Connect with Us
+🔗 **GitHub:** [manyajhupta](https://github.com/manyajhupta)  [Shambhavigaur31](https://github.com/Shambhavigaur31)  
+📧 **Email:**  gmanya255@gmail.com gaurshambhavi31@gmail.com  
+🔗 **LinkedIn:** [Manya Gupta](https://www.linkedin.com/in/manya1811/) [Shambhavi Gaur](https://www.linkedin.com/in/shambhavi-gaur-a9a15028b/)
 
 ---
 
